@@ -1,6 +1,11 @@
 # PS5reborn 2024
 Playnite theme simulating updated PS5 interface!
 
+## ShowCase
+![Snímek obrazovky 2024-06-06 134739](https://github.com/saVantCZ/PS5reborn/assets/97293893/b530fc8f-ba87-49a5-b59b-4a64ad72103c){:height="36px" width="36px"}
+
+
+
 ## Initial Desktop Setup
 ### Set Cover Art to 1:1 and Uniform to Fill
 ![Snímek obrazovky 2024-06-06 131234](https://github.com/saVantCZ/PS5reborn/assets/97293893/0bade346-df0b-4771-bff4-3de694b46bac)
