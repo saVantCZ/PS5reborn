@@ -8,9 +8,13 @@ Playnite theme simulating updated PS5 interface!
 ![Snímek obrazovky 2024-06-06 131254](https://github.com/saVantCZ/PS5reborn/assets/97293893/4d41a4f0-1287-4251-b268-63154a909dcf)
 ### Make sure to have recommended plugins installed
 > ExtraMetadata
+> 
 > Steam Screenshots
+> 
 > SuccessStory
+> 
 > HowLongToBeat
+
 ![Snímek obrazovky 2024-06-06 131353](https://github.com/saVantCZ/PS5reborn/assets/97293893/1ee59589-fa13-4d92-9492-a7cbb0426675)
 
 
