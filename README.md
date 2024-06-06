@@ -2,7 +2,8 @@
 Playnite theme simulating updated PS5 interface!
 
 ## ShowCase
-![Snímek obrazovky 2024-06-06 134739](https://github.com/saVantCZ/PS5reborn/assets/97293893/b530fc8f-ba87-49a5-b59b-4a64ad72103c){:height="36px" width="36px"}.
+
+<img src="[https://github.com/favicon.ico](https://github.com/saVantCZ/PS5reborn/assets/97293893/b530fc8f-ba87-49a5-b59b-4a64ad72103c)" width="48">
 
 
 
