@@ -34,7 +34,7 @@ Playnite theme simulating updated PS5 interface!
 ## Filter Preset Setup
 > You must use First Filter preset for Installed Games, sorted by Recent Activity or Last Played
 > 
-> Second Filter preset must be called "Media" anything else will not show Media Layout
+> Second Filter preset must be called "Media" anything else will not show Media Layout, There you can store all your media apps
 > 
 > 3rd and all others are up to you
 
