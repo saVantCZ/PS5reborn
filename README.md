@@ -37,6 +37,7 @@ Playnite theme simulating updated PS5 interface!
 > Second Filter preset must be called "Media" anything else will not show Media Layout
 > 
 > 3rd and all others are up to you
+
 ![image](https://github.com/saVantCZ/PS5reborn/assets/97293893/39606abe-6e64-401e-86d2-8b13957096d6)
 
 
