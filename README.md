@@ -40,6 +40,12 @@ Playnite theme simulating updated PS5 interface!
 
 ![image](https://github.com/saVantCZ/PS5reborn/assets/97293893/39606abe-6e64-401e-86d2-8b13957096d6)
 
+## Custom Localization for your Language
+> Edit Constants.xaml to translate all custom strings
+> 
+
+![image](https://github.com/saVantCZ/PS5reborn/assets/97293893/ea40f515-932e-49a4-8af1-3bca9051d815)
+
 
 
 ## Plugin Showcase
