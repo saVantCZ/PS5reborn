@@ -2,13 +2,7 @@
 Playnite theme simulating updated PS5 interface!
 
 ## ShowCase
-
-
-<img src="(https://github.com/saVantCZ/PS5reborn/assets/97293893/033a1b88-431f-4298-a51e-1091c8fde998" width=50% height=50%>
-
-
-
-
+![Snímek obrazovky 2024-06-06 134755 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/5cc3b4b5-9e8d-46cf-a556-9f3a243801a2)![Snímek obrazovky 2024-06-06 134804 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/161dc907-fc91-4be6-9093-b7c635db1b2f)![Snímek obrazovky 2024-06-06 134811 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/f0b29743-1c08-4804-bf65-f526c3e8f2a4)![Snímek obrazovky 2024-06-06 134817 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/507ac78e-5688-4be3-8890-91811dd6fe50)![Snímek obrazovky 2024-06-06 134832 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/a5c57183-db5c-4174-b34c-deeb0253780b)![Snímek obrazovky 2024-06-06 134846 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/a874d02e-80c4-4cc4-91f5-830a2a770ff1)![Snímek obrazovky 2024-06-06 134902 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/6058bd73-8698-44f2-b601-71cb519d52e9)![Snímek obrazovky 2024-06-06 134930 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/bea7137f-1658-4c34-86a5-f0a118a67154)![Snímek obrazovky 2024-06-06 134954 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/f1d57b65-5b28-42ed-8883-0fccd9cddb3c)![Snímek obrazovky 2024-06-06 135015 (Vlastní)](https://github.com/saVantCZ/PS5reborn/assets/97293893/afd92786-cb99-4820-be62-85ef95ebaa36)
 
 ## Initial Desktop Setup
 ### Set Cover Art to 1:1 and Uniform to Fill
