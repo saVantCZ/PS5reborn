@@ -21,8 +21,11 @@ Playnite theme simulating updated PS5 interface!
 ## Fullscreen Setup
 ### You should use these settings or theme will break!
 > Horizontal Scrolling OFF
+> 
 > Rows 2
+> 
 > Item Spacing 50
+
 ![Snímek obrazovky 2024-06-06 131527](https://github.com/saVantCZ/PS5reborn/assets/97293893/4245e6cf-6e47-4207-ac51-36b15c543d13)
 
 ## Plugin Showcase
