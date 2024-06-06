@@ -31,7 +31,18 @@ Playnite theme simulating updated PS5 interface!
 
 ![Snímek obrazovky 2024-06-06 131527](https://github.com/saVantCZ/PS5reborn/assets/97293893/4245e6cf-6e47-4207-ac51-36b15c543d13)
 
+## Filter Preset Setup
+> You must use First Filter preset for Installed Games, sorted by Recent Activity or Last Played
+> 
+> Second Filter preset must be called "Media" anything else will not show Media Layout
+> 
+> 3rd and all others are up to you
+![image](https://github.com/saVantCZ/PS5reborn/assets/97293893/39606abe-6e64-401e-86d2-8b13957096d6)
+
+
+
 ## Plugin Showcase
 ![Snímek obrazovky 2024-06-06 131435](https://github.com/saVantCZ/PS5reborn/assets/97293893/e6a3ce47-5aac-4be4-810c-3d8d45453dad)
 ![Snímek obrazovky 2024-06-06 131449](https://github.com/saVantCZ/PS5reborn/assets/97293893/763b6bb0-1213-4f6a-aa9d-122ba419ac22)
+
 
