@@ -50,6 +50,17 @@ Playnite theme simulating updated PS5 interface!
 
 ![image](https://github.com/saVantCZ/PS5reborn/assets/97293893/39606abe-6e64-401e-86d2-8b13957096d6)
 
+## Theme features Toggles
+> Edit Constants.xaml to toggle some features
+>
+> You can enable or disable Fullscreen Steam Screenshots, Intro, Microtrailers as background
+>
+> You can replace A or X button on intro screen with "PS" button
+>
+
+![Snímek obrazovky 2024-06-11 074055](https://github.com/saVantCZ/PS5reborn/assets/97293893/dcf4b14d-c8b2-4efc-a698-ebfc8db33cdf)
+
+
 ## Custom Localization for your Language
 > Edit Constants.xaml to translate all custom strings
 > 
