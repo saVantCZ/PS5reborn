@@ -20,9 +20,16 @@ Playnite theme simulating updated PS5 interface!
 > SuccessStory
 > 
 > HowLongToBeat
+> 
+> Playnite Sounds Mod
 
-![Snímek obrazovky 2024-06-06 131353](https://github.com/saVantCZ/PS5reborn/assets/97293893/1ee59589-fa13-4d92-9492-a7cbb0426675)
+## Plugin Settings
+### Playnite Sounds Mod
+> Most important settings is to Disable "Pause music during video trailer"
+> Because it handles video intro and background as trailers and disable music
+> I am using own triggers for pausing music
 
+![Snímek obrazovky 2024-06-11 073424](https://github.com/saVantCZ/PS5reborn/assets/97293893/72a9f34e-8cec-449a-8593-ae2848efad4e)
 
 ## Fullscreen Setup
 ### You should use these settings or theme will break!
