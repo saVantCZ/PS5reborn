@@ -12,7 +12,7 @@ Playnite theme simulating updated PS5 interface!
 ![Snímek obrazovky 2024-06-06 131234](https://github.com/saVantCZ/PS5reborn/assets/97293893/0bade346-df0b-4771-bff4-3de694b46bac)
 ### Set Cover Art Metadata Source to providers of Square Covers, for example IGN and PSN Store
 ![Snímek obrazovky 2024-06-06 131254](https://github.com/saVantCZ/PS5reborn/assets/97293893/4d41a4f0-1287-4251-b268-63154a909dcf)
-### Make sure to have recommended plugins installed
+## Make sure to have recommended plugins installed
 > ExtraMetadata
 > 
 > Steam Screenshots
@@ -25,8 +25,8 @@ Playnite theme simulating updated PS5 interface!
 
 ## Plugin Settings
 ### Playnite Sounds Mod
-> Most important settings is to Disable "Pause music during video trailer"
-> Because it handles video intro and background as trailers and disable music
+> Most important settings is to Disable "Pause music during video trailer" 
+> because it handles video intro and background as trailers and disable music ...
 > I am using own triggers for pausing music
 
 ![Snímek obrazovky 2024-06-11 073424](https://github.com/saVantCZ/PS5reborn/assets/97293893/72a9f34e-8cec-449a-8593-ae2848efad4e)
