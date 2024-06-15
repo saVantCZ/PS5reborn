@@ -20,3 +20,13 @@ Packages:
       - Added resource friendly overlay (by Rembihnutur)
       - Fixed GPU Usage issue with videos (usage will drop after 10ish seconds)
       - And many more...
+  - Version: 1.0.3
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-16
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.0.3/PS5reborn_saVantCZ_1_0_3.pthm
+    Changelog:
+      - HotFix
+      - Fixed game details wrong animation for not installed game on description
+      - Added totaly forgotten Platinum trophy from Trophy Menu
+      - You can disable background on rating
+      - And some very small fixes
