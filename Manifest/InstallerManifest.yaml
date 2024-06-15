@@ -1,8 +1,22 @@
 AddonId: PS5reborn_saVantCZ
 Packages:
-  - Version: 1.0.0
+  - Version: 1.0
     RequiredApiVersion: 2.6.0
     ReleaseDate: 2024-06-11
     PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/Stable/PS5reborn_saVantCZ_1_0.pthm
     Changelog:
       - Inital Release, please read README on github!
+  - Version: 1.0.2
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-15
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.0.2/PS5reborn_saVantCZ_1_0_2.pthm
+    Changelog:
+      - Added features
+      - Fake Explore panel can use user edited template (image)
+      - Labels on top buttons
+      - Installed label can be disabled
+      - Intro and Press the Button screen can be disabled
+      - Ratings can be disabled
+      - Added resource friendly overlay (by Rembihnutur)
+      - Fixed GPU Usage issue with videos (usage will drop after 10ish seconds)
+      - And many more...
