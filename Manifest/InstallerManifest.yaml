@@ -30,3 +30,13 @@ Packages:
       - Added totaly forgotten Platinum trophy from Trophy Menu
       - You can disable background on rating
       - And some very small fixes
+  - Version: 1.0.5
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-17
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.0.5/PS5reborn_saVantCZ_1_0_5.pthm
+    Changelog:
+      - Small additions
+      - Game Slogan/Mini description can be expanded on 2 lines
+      - You can Disable PS5 Dark overlay by setting Background Darkening slider to 0 in Visual Fullscreen Settings
+      - Enable it again by setting slider to 1 or more
+      - Some minor menu layout tweaks
