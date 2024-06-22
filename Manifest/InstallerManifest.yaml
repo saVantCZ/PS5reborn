@@ -40,3 +40,12 @@ Packages:
       - You can Disable PS5 Dark overlay by setting Background Darkening slider to 0 in Visual Fullscreen Settings
       - Enable it again by setting slider to 1 or more
       - Some minor menu layout tweaks
+  - Version: 1.1.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-22
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.1.0/PS5reborn_saVantCZ_1_1_0.pthm
+    Changelog:
+      - Added basic ScreenshotVisualiser support (note that i cannot control which screenshots are visible in fullscreen theme, it will show 3 screenshots in random order) located in Media Tab right beside Steam Screenshots
+      - Added custom Ambient PS5 background sound, will pause if Playnite Sounds addon has game music, Volume is controled with music volume slider in settings
+      - Added Hidden label on hidden games
+
