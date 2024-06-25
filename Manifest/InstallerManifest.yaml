@@ -48,4 +48,12 @@ Packages:
       - Added basic ScreenshotVisualiser support (note that i cannot control which screenshots are visible in fullscreen theme, it will show 3 screenshots in random order) located in Media Tab right beside Steam Screenshots
       - Added custom Ambient PS5 background sound, will pause if Playnite Sounds addon has game music, Volume is controled with music volume slider in settings
       - Added Hidden label on hidden games
-
+  - Version: 1.1.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-25
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.1.1/PS5reborn_saVantCZ_1_1_1.pthm
+    Changelog:
+      - Added basic Theme Options Plugin by Artem Shpynov
+      - Most important Options from Constants.xaml are avaiable in Fullscreen Settings - Theme Options
+      - Fixed PS5 Ambient sound during playing game
+      - Playnite Sound Mod music should keep playing if focused on presets or play button in main view
