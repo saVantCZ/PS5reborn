@@ -57,3 +57,10 @@ Packages:
       - Most important Options from Constants.xaml are avaiable in Fullscreen Settings - Theme Options
       - Fixed PS5 Ambient sound during playing game
       - Playnite Sound Mod music should keep playing if focused on presets or play button in main view
+  - Version: 1.1.2
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-26
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.1.2/PS5reborn_saVantCZ_1_1_2.pthm
+    Changelog:
+      - Added 16:10 fix via Theme Options Plugin by Artem Shpynov
+      - To change Layout aspect ratio, you need Theme Options plugin installed, then go to fullscreen settings, Theme Options and choose preset with 16:10 fix
