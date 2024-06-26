@@ -1,4 +1,5 @@
-# PS5reborn 2024
+# PS5reborn 2024 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/saVantCZ/PS5reborn/total)
+
 Playnite theme simulating updated PS5 interface!
 
 ## If you like my work, a coffee would be awesome!
