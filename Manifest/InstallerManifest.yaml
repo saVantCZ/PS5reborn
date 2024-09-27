@@ -71,3 +71,10 @@ Packages:
     Changelog:
       - Fixed Trailer view for 16:10
       - Fixed clipping text in settings on 16:10
+  - Version: 1.2.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-09-27
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.2.0/PS5reborn_saVantCZ_1_2_0.pthm
+    Changelog:
+      - Added separated rarity for SuccesStory Trophies in all views
+      - Fixed some phantom focusing problems
