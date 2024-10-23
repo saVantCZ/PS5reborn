@@ -78,3 +78,16 @@ Packages:
     Changelog:
       - Added separated rarity for SuccesStory Trophies in all views
       - Fixed some phantom focusing problems
+  - Version: 1.3.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-10-23
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.3.0/PS5reborn_saVantCZ_1_3_0.pthm
+    Changelog:
+      - Added CheckDLC addon support in PS5 style, mainly for cosmetics
+      - Fixed wrong colors for Tiles, added smooth transition to gradient in Details view
+      - Redesigned Explore panel, in latest PS5 update its Welcome Hub now
+      - Welcome Hub is highly customizable via Theme Options plugin and image replacement in theme folder
+      - Added more options to Theme Options plugin
+      - Localization Strings for Welcome Hub in Constants.xaml
+      - Small fixes to cover images, wrong size will be always Square format to prevent breaking theme
+      - Small additions to Game Details to mimic real PS5
