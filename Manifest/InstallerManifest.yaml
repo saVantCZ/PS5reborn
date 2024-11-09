@@ -102,3 +102,16 @@ Packages:
       - Added Intro Video volume slider to Theme Options
       - Welcome Hub has toggable Video Background via Theme Options, video file is located in Images,PS5,FakeExplore,Backgrounds... note that looping video background has nonstop GPU usage so use it only when you want it.
       - IF YOU MADE ANY CUSTOM CHANGES, UPDATING THEME WILL OVERWRITE EVERYTHING, BACKUP YOUR CUSTOMIZATION
+  - Version: 1.5.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-11-09
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.5.0/PS5reborn_saVantCZ_1_5_0.pthm
+    Changelog:
+      - Fixed Ambient Music and Playnite Sounds Game Music crossplaying in some scenarios
+      - Added toggle to Theme Options for Bigger Icons on Main Screen
+      - Added toggle to Theme Options to hide PlayStation Store icon
+      - Added toggle to Theme Options to make PlayStation Store not focusable
+      - Fixed another ghost focusing problem 
+      - Added EXPERIMENTAL go back to main view from grid/all games view with B button on controller (only with unreleased Theme Options 0.14 version)
+      - Partialy hide some Status elements
+      - If you made any image replacement customization and replaced some constants localization strings, backup replaced images or any other customization, DO NOT replace backed up constants.xaml file, only rewrite your strings
