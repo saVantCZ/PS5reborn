@@ -115,3 +115,16 @@ Packages:
       - Added EXPERIMENTAL go back to main view from grid/all games view with B button on controller (only with unreleased Theme Options 0.14 version)
       - Partialy hide some Status elements
       - If you made any image replacement customization and replaced some constants localization strings, backup replaced images or any other customization, DO NOT replace backed up constants.xaml file, only rewrite your strings
+  - Version: 1.6.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-11-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.6.0/PS5reborn_saVantCZ_1_6_0.pthm
+    Changelog:
+      - Added support for 3:4 Cover Images, need reports on functionality, please report any problem on github
+      - Some performance fixes when switching to Game Library and Welcome Hub
+      - Support for Full-Resolution images from Steam Screenshots Addon, note that loading Screenshots can freeze UI for a few second if game is new and doesnt have cache created, once cache is created it will never freeze again.
+      - Ability to rename Media filter preset via Theme Options, to have working Media layout you need to have your filter preset still named Media, you can rename it in Theme Options to anything then.
+      - Added small cosmetic stuff
+      - Tweaked Trailer playback hide animations for better visibility
+      - Little rework on Status screen, now it shows Game Background slowly zooming in and Game Logo, to mimic PS5 Splash Screen without plugin
+      
