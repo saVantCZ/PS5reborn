@@ -127,4 +127,12 @@ Packages:
       - Added small cosmetic stuff
       - Tweaked Trailer playback hide animations for better visibility
       - Little rework on Status screen, now it shows Game Background slowly zooming in and Game Logo, to mimic PS5 Splash Screen without plugin
-      
+  - Version: 1.6.5
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-11-22
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.6.5/PS5reborn_saVantCZ_1_6_5.pthm
+    Changelog:
+      - Added Trophies sorted by Date in both ascending and descending ways, requires latest SuccessStory v3.4 update
+      - Fixed some not working strings in Theme Options
+      - Added ALL translate-able strings to Theme Options
+      - Made better handling of pressing B on All Games/Grid View to go back into Main View, should not stay selected on not visible game
