@@ -136,3 +136,17 @@ Packages:
       - Fixed some not working strings in Theme Options
       - Added ALL translate-able strings to Theme Options
       - Made better handling of pressing B on All Games/Grid View to go back into Main View, should not stay selected on not visible game
+  - Version: 1.7.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-11-28
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/1.7.0/PS5reborn_saVantCZ_1_7_0.pthm
+    Changelog:
+      - Added Source icons in Grid View, default is off, enable in Theme Options
+      - Fixed visible Press the Button/Profile Selector screen even if it was disabled in Theme Options
+      - Fixed Not Focused Game List when clicking Press The Button/Profile Selector screen, now game list will be always first in focus
+      - Widgets in Welcome Hub can be each turned off or on via Theme Options
+      - Make image customization easier, images are now located in folder called Custom inside Theme Folder, both Store and Welcome images
+      - Fixed some wrong strings
+      - Added Translations for Store Items to Theme Options
+      - Made Theme Options fullscreen settings layout more pleasing, it was a mess before
+      - Removed leftover test triggers
