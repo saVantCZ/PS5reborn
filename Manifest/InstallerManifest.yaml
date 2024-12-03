@@ -150,3 +150,17 @@ Packages:
       - Added Translations for Store Items to Theme Options
       - Made Theme Options fullscreen settings layout more pleasing, it was a mess before
       - Removed leftover test triggers
+  - Version: 2.0.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-03
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.0.0/PS5reborn_saVantCZ_2_0_0.pthm
+    Changelog:
+      - Rewrorked Localization system, Theme is now automatically translated via Theme Options, supported languages are en,cz,es,fr,it,pt,vi... you can submit your translation on Playnite Discord or my Github, use default en_US file inside Localization folder to translate
+      - Theme will not launch without Theme Options plugin installed, warning message will show when launching without it
+      - Hopefully fixed not able to select Game Library in some random situations
+      - Added ability to disable Source icon in Game Title
+      - You can translate via Theme Options only Customizable items, such Store or Widget items and Welcome to Playnite string.
+      - Added Game List loaded PS5 sound on request
+      - Added 4k60fps intro toggle
+      - Fixed some timings on first loading elements, mostly Game Background
+      - Minor fixes i dont remeber anymore since 1.7.0
