@@ -164,3 +164,12 @@ Packages:
       - Added 4k60fps intro toggle
       - Fixed some timings on first loading elements, mostly Game Background
       - Minor fixes i dont remeber anymore since 1.7.0
+  - Version: 2.0.5
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-06
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.0.5/PS5reborn_saVantCZ_2_0_5.pthm
+    Changelog:
+      - Fixed Game List jumping when fast scrolling to left
+      - Reworked focusing system on Game list when leaving Game Library
+      - Delayed Game and Ambient music untill Game List Animation Jingle finishes
+      - Re-aranged Theme Options settings
