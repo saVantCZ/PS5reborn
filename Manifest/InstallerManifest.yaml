@@ -173,3 +173,12 @@ Packages:
       - Reworked focusing system on Game list when leaving Game Library
       - Delayed Game and Ambient music untill Game List Animation Jingle finishes
       - Re-aranged Theme Options settings
+  - Version: 2.1.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-09
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.1.0/PS5reborn_saVantCZ_2_1_0.pthm
+    Changelog:
+      - Enhanced Game List focusing when leaving Game Library based on game count to prevent focusing on non-existing item index
+      - Fixed wrong status on Play Button when game was running in both views
+      - Updated fake PlayStation Store items to be more recent, restart default strings of Store Items in Theme Options if you customized/translated it
+      - Updated Localization files
