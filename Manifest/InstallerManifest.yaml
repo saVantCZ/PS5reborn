@@ -182,3 +182,13 @@ Packages:
       - Fixed wrong status on Play Button when game was running in both views
       - Updated fake PlayStation Store items to be more recent, restart default strings of Store Items in Theme Options if you customized/translated it
       - Updated Localization files
+  - Version: 2.2.2
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-12
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.2.2/PS5reborn_saVantCZ_2_2_2.pthm
+    Changelog:
+      - Added Theme Colors in 30th Anniversary PS5 Style to Theme Options, changes Tiles color and Settings Background, choosing any PlayStation Theme will change Intro Video to 30th Anniversary PS5 Intro, You can choose Custom Color which you can edit in Custom Folder and file named TileColor.xaml
+      - Added ability to go down on main view into game details, no need to pressing A to enter game details, just go down
+      - Fixed skipping games when leaving Grid View with B button
+      - Fixed Back to Game addon not working
+      - Changed es_MX translation to es_ES
