@@ -192,3 +192,9 @@ Packages:
       - Fixed skipping games when leaving Grid View with B button
       - Fixed Back to Game addon not working
       - Changed es_MX translation to es_ES
+  - Version: 2.2.3
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-12
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.2.3/PS5reborn_saVantCZ_2_2_3.pthm
+    Changelog:
+      - 'Hotfix: Removed BackToGame addon support due theme breaking layout bug with custom ListBox'
