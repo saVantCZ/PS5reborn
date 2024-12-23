@@ -198,3 +198,17 @@ Packages:
     PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.2.3/PS5reborn_saVantCZ_2_2_3.pthm
     Changelog:
       - 'Hotfix: Removed BackToGame addon support due theme breaking layout bug with custom ListBox'
+  - Version: 2.3.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-23
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.3.0/PS5reborn_saVantCZ_2_3_0.pthm
+    Changelog:
+      - Greatly improved performance on startup
+      - Added ability to Delay Micro Trailers playing from 0s up to 10s
+      - Reverted loading background image when Game List Jingle plays
+      - Media, when using Media filter preset, now showing Description and Legal info to simulate PS5
+      - Media filter preset now allows focusing on All Apps and TV and Video tiles with PS5 Cosmetics equivalents
+      - You can now turn off Mini Description under logo via Theme Options
+      - Added minor elements to Game Details for uninstalled games
+      - Small correction for Czech Translation
+      - I wish you all Merry Christmas!
