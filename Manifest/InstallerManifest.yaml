@@ -212,3 +212,10 @@ Packages:
       - Added minor elements to Game Details for uninstalled games
       - Small correction for Czech Translation
       - I wish you all Merry Christmas!
+  - Version: 2.3.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-24
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.3.1/PS5reborn_saVantCZ_2_3_1.pthm
+    Changelog:
+      - 'Hotfix: Fixed issue of losing focus when opened and closed Game Options via button next to Play Game button'
+      - Updated Localization files
