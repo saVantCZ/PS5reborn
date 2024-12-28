@@ -219,3 +219,18 @@ Packages:
     Changelog:
       - 'Hotfix: Fixed issue of losing focus when opened and closed Game Options via button next to Play Game button'
       - Updated Localization files
+  - Version: 2.4.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-28
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.4.0/PS5reborn_saVantCZ_2_4_0.pthm
+    Changelog:
+      - BackToGame plugin should now be supported with addon version 0.6, if not you should check raised Admin Privileges of game, if focusing is not working
+      - BackToGame elements added to Game Menu and Replaced Play Game button if game is running
+      - Disabling mini description now push logo down instead of keeping empty place from mini description
+      - Added simple battery indicator for handheld and notebook users in topbar
+      - Fixed issue when 10th game could not focus on play button
+      - Added wrong settings screen, theme will inform you which settings you have wrong and you can adjust it on this screen to allow theme to work
+      - Added to Theme Options toggle to disable fake PS5 Legal info and its Fake Button
+      - Added ability to disable Small Discover widged from Welcome Hub
+      - Some fixes i dont remeber anymore from unreleased 2.3.2 update
+      - Updated Localization files
