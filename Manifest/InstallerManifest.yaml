@@ -234,3 +234,9 @@ Packages:
       - Added ability to disable Small Discover widged from Welcome Hub
       - Some fixes i dont remeber anymore from unreleased 2.3.2 update
       - Updated Localization files
+  - Version: 2.4.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-28
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.4.1/PS5reborn_saVantCZ_2_4_1.pthm
+    Changelog:
+      - SuccessStory fix ... Trophies in List View now shows correct rarity color, rarity trophy icon and string based on new trophies logic, now it matches rarity count in 99% of cases, for example if game has 2 golds and 3 silvers, list view will correctly show 2 gold and 3 silver trophies, not like with old logic where it could show, on 2 silver and 2 bronze, 4 total bronzes...
