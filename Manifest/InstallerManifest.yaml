@@ -240,3 +240,10 @@ Packages:
     PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.4.1/PS5reborn_saVantCZ_2_4_1.pthm
     Changelog:
       - SuccessStory fix ... Trophies in List View now shows correct rarity color, rarity trophy icon and string based on new trophies logic, now it matches rarity count in 99% of cases, for example if game has 2 golds and 3 silvers, list view will correctly show 2 gold and 3 silver trophies, not like with old logic where it could show, on 2 silver and 2 bronze, 4 total bronzes...
+  - Version: 2.4.5
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-29
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.4.5/PS5reborn_saVantCZ_2_4_5.pthm
+    Changelog:
+      - 'Expanded Game List from 10 games to 12 (yay!)'
+      - 'Trophies: When game has 0 unlocked achievements, make Trophies menu show Locked achievement on opening instead of empty Unlocked list'
