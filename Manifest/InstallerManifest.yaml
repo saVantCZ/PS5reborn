@@ -247,3 +247,10 @@ Packages:
     Changelog:
       - 'Expanded Game List from 10 games to 12 (yay!)'
       - 'Trophies: When game has 0 unlocked achievements, make Trophies menu show Locked achievement on opening instead of empty Unlocked list'
+  - Version: 2.5.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-29
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.5.0/PS5reborn_saVantCZ_2_5_0.pthm
+    Changelog:
+      - 'Expanded Game List again! Now you can via Theme Option choose range from 10 up to 20 games, note: More games can slow down theme, and if you use lower number then total count, it can break position of More Games button, so keep that in mind, things can break :D'
+      - 'Trophies: Hidden achievements in Locked list are now blured and has hidden Name and Description'
