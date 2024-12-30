@@ -254,3 +254,12 @@ Packages:
     Changelog:
       - 'Expanded Game List again! Now you can via Theme Option choose range from 10 up to 20 games, note: More games can slow down theme, and if you use lower number then total count, it can break position of More Games button, so keep that in mind, things can break :D'
       - 'Trophies: Hidden achievements in Locked list are now blured and has hidden Name and Description'
+  - Version: 2.5.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-12-30
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.5.1/PS5reborn_saVantCZ_2_5_1.pthm
+    Changelog:
+      - 'Fake Store: Added missing "Deals" and its Localizations in useless fake top store buttons :X'
+      - 'Fake Store: Adjusted Margin of fake top buttons'
+      - 'Trophies: Changed Hidden achievements to blured description instead of "Hidden" text'
+      - 'Trophies: Hidden achievements can be viewed/unblur by pressing A on controller, hide it again by pressing A'
