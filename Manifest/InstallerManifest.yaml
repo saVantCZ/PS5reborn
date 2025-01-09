@@ -263,3 +263,17 @@ Packages:
       - 'Fake Store: Adjusted Margin of fake top buttons'
       - 'Trophies: Changed Hidden achievements to blured description instead of "Hidden" text'
       - 'Trophies: Hidden achievements can be viewed/unblur by pressing A on controller, hide it again by pressing A'
+  - Version: 2.8.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-01-09
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.8.0/PS5reborn_saVantCZ_2_8_0.pthm
+    Changelog:
+      - 'Features: Added PS5 Control Center (Cosmetics)'
+      - 'Features: Added support for Web Explorer plugin'
+      - 'Conrol Center (Cosmetics): Open with controller "Guide" button or pressing profile picture in top bar (if you dont have controller)'
+      - 'Control Center (Cosmetics): Allows you controlling theme volume, accessing build in web browser (needs Web Explorer extension) or closing playnite in PS5 Style'
+      - 'Layout: Expanded Steam Screenshots to 10 and Screenshot Visualiser Screenshots to 10, making total of max 20 screenshots for your games'
+      - 'Trophies: If game has 0 unlocked trophies, instead of progress you will see text "You havent earned any trophies yet." in widget just like real PS5'
+      - 'Code: Removed extrametadatapath dependency, replaced with Api path, profile picture and microtrailers should now work with changed Theme Colors preset'
+      - 'Layout: Expanded Filter Presets entries in Game Library from 10 to 30'
+      - 'Language: Added and updated strings for Control Panel'
