@@ -277,3 +277,16 @@ Packages:
       - 'Code: Removed extrametadatapath dependency, replaced with Api path, profile picture and microtrailers should now work with changed Theme Colors preset'
       - 'Layout: Expanded Filter Presets entries in Game Library from 10 to 30'
       - 'Language: Added and updated strings for Control Panel'
+  - Version: 2.8.5
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-01-14
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.8.5/PS5reborn_saVantCZ_2_8_5.pthm
+    Changelog:
+      - 'Control Center: Can be opened with "C" on keyboard'
+      - 'Control Center: Added ability to Hide Playnite Turn off options'
+      - 'Control Center: Added ability to Hide useless dummy buttons'
+      - 'Layout: Fixed visible Star Rating in main view if rating was none'
+      - 'Layout: Fixed cut off texts in buttons for Control Center and Top Bar'
+      - 'Screenshot Visualiser: Supports playing user videos'
+      - 'Screenshot Visualiser: Fixed stretched 4:3 images'
+      - 'Language: Updated strings'
