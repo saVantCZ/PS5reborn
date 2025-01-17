@@ -290,3 +290,13 @@ Packages:
       - 'Screenshot Visualiser: Supports playing user videos'
       - 'Screenshot Visualiser: Fixed stretched 4:3 images'
       - 'Language: Updated strings'
+  - Version: 2.9.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-01-18
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.9.0/PS5reborn_saVantCZ_2_9_0.pthm
+    Changelog:
+      - 'Control Center: Added to Theme Options to Hide Each Power Option'
+      - 'Misc: Added to Theme Options to Enable showing ALL Filter Presets on Main View'
+      - 'Misc: Added to Theme Options ability to hide Media Row from Game Details'
+      - 'Misc: Added to Theme Options switch between Micro Trailer and Regular Trailer for Background'
+      - 'Language: Updated ES'
