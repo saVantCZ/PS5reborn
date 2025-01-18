@@ -300,3 +300,11 @@ Packages:
       - 'Misc: Added to Theme Options ability to hide Media Row from Game Details'
       - 'Misc: Added to Theme Options switch between Micro Trailer and Regular Trailer for Background'
       - 'Language: Updated ES'
+  - Version: 2.9.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-01-18
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.9.1/PS5reborn_saVantCZ_2_9_1.pthm
+    Changelog:
+      - 'Layout: Fixed Filter Preset overlapping when used Show Battery Status and fixed overlapping for 16:10 layout'
+      - 'Misc: Added to Theme Options ability to toggle Filter Preset images instead of text (Only basic Filter Presets are covered, for missing you need to create ones in theme PS5Reborn_saVantCZ/Icons/Filters folder, Image needs to match Filter Preset name, for example Filter Preset "My Love" should be "My Love.png")'
+      - 'Screenshot Visualiser: Game Theme Music via Playnite Sounds Mod should be muted when playing Visualiser videos'
