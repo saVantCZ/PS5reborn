@@ -308,3 +308,10 @@ Packages:
       - 'Layout: Fixed Filter Preset overlapping when used Show Battery Status and fixed overlapping for 16:10 layout'
       - 'Misc: Added to Theme Options ability to toggle Filter Preset images instead of text (Only basic Filter Presets are covered, for missing you need to create ones in theme PS5Reborn_saVantCZ/Icons/Filters folder, Image needs to match Filter Preset name, for example Filter Preset "My Love" should be "My Love.png")'
       - 'Screenshot Visualiser: Game Theme Music via Playnite Sounds Mod should be muted when playing Visualiser videos'
+  - Version: 2.9.2
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-01-19
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.9.2/PS5reborn_saVantCZ_2_9_2.pthm
+    Changelog:
+      - 'Control Center: Changed opening Control Center with Guide Button to LONG Pressing, to prevent issues with Windows Game Bar opening with Guide Button (Issue #48)'
+      - 'Misc: Fixed playing ambient and game music during Intro if Login Screen/Press the Button screen is disabled (Issue #47)'
