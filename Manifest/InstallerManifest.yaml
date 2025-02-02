@@ -315,3 +315,10 @@ Packages:
     Changelog:
       - 'Control Center: Changed opening Control Center with Guide Button to LONG Pressing, to prevent issues with Windows Game Bar opening with Guide Button (Issue #48)'
       - 'Misc: Fixed playing ambient and game music during Intro if Login Screen/Press the Button screen is disabled (Issue #47)'
+  - Version: 2.9.3
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2025-02-02
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/2.9.3/PS5reborn_saVantCZ_2_9_3.pthm
+    Changelog:
+      - 'Misc: Added Visual Representation for Active Image Filter Preset'
+      - 'Most Likely Final Version, since I dont have time and will to continue on this project, see you in Playnite 11'
