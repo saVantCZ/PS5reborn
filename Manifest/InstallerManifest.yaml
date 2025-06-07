@@ -332,4 +332,13 @@ Packages:
       - 'NowPlaying: Added Icon on Main View Game Cover for curently running game'
       - 'Fix: Fixed Focusing problem in Status Screen'
       - 'Trailer: Added ability to Mute playing Trailer with (X) on Xbox Controller or (M) on Keyboard'
+  - Version: 3.0.1
+    RequiredApiVersion: 2.7.0
+    ReleaseDate: 2025-06-07
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.0.1/PS5reborn_saVantCZ_3_0_1.pthm
+    Changelog:
+      - 'NowPlaying: Added Close Game button to Status Screen'
+      - 'Layout: Rearange Status Screen Logo placement'
+      - 'Fix: Fixed Leaking Game background when viewing Steam Screenshots or Visualiser Screenshots'
+      - 'Visual: Updated Store items and Welcome Hub items to be more up-to date'
 
