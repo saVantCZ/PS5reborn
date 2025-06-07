@@ -322,3 +322,14 @@ Packages:
     Changelog:
       - 'Misc: Added Visual Representation for Active Image Filter Preset'
       - 'Most Likely Final Version, since I dont have time and will to continue on this project, see you in Playnite 11'
+  - Version: 3.0.0
+    RequiredApiVersion: 2.7.0
+    ReleaseDate: 2025-06-07
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.0.0/PS5reborn_saVantCZ_3_0_0.pthm
+    Changelog:
+      - 'Misc: Added support for NowPlaying extension by Jono'
+      - 'NowPlaying: Supports going back to game via Main View, Game Details and Status Screen, Replaces Play Game Button when running game'
+      - 'NowPlaying: Added Icon on Main View Game Cover for curently running game'
+      - 'Fix: Fixed Focusing problem in Status Screen'
+      - 'Trailer: Added ability to Mute playing Trailer with (X) on Xbox Controller or (M) on Keyboard'
+
