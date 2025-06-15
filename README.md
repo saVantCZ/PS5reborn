@@ -1,4 +1,6 @@
-# PS5reborn 2024 Playnite 10 - DISCONTINUED - NO MORE UPDATES ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/saVantCZ/PS5reborn/total?style=flat-square&logo=playstation&label=Total%20Downloads&link=https%3A%2F%2Fgithub.com%2FsaVantCZ%2FPS5reborn%2Freleases)
+# PS5reborn 2024 Playnite 10
+
+[GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/saVantCZ/PS5reborn/total?style=flat-square&logo=playstation&label=Total%20Downloads&link=https%3A%2F%2Fgithub.com%2FsaVantCZ%2FPS5reborn%2Freleases)
 
 
 Playnite theme simulating updated PS5 interface!
