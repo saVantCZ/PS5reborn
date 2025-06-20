@@ -341,4 +341,17 @@ Packages:
       - 'Layout: Rearange Status Screen Logo placement'
       - 'Fix: Fixed Leaking Game background when viewing Steam Screenshots or Visualiser Screenshots'
       - 'Visual: Updated Store items and Welcome Hub items to be more up-to date'
-
+  - Version: 3.1.1
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-06-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.1.1/PS5reborn_saVantCZ_3_1_1.pthm
+    Changelog:
+      - 'NowPlaying: Added Close Game button to Main Screen and Game Details'
+      - 'Layout: Enhanced some animations to Game List loading and Profile Login Screen'
+      - 'Fix: Fixed Black Background if fullscreen screenshots are disabled'
+      - 'Fix: Fixed Progress Tile showing if success story is disabled'
+      - 'Fix: Fixed Glitchy Corner radius on Game Cover if NowPlaying game is running'
+      - 'Visual: Reduced darkness of main gradient overlay'
+      - 'Layout: Hide Game Cover and Title if focused on Media Row'
+      - 'Layout: Added preview of trailer in Game Details Trailer thumbnail'
+      - 'Layout: Trailer mini window now hides if Trailer is playing'
