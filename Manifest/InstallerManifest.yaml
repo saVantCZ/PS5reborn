@@ -355,3 +355,14 @@ Packages:
       - 'Layout: Hide Game Cover and Title if focused on Media Row'
       - 'Layout: Added preview of trailer in Game Details Trailer thumbnail'
       - 'Layout: Trailer mini window now hides if Trailer is playing'
+  - Version: 3.2.0
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-06-26
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.2.0/PS5reborn_saVantCZ_3_2_0.pthm
+    Changelog:
+      - 'New: Added Fake PlayStation Plus button, can be turned off via Theme Options'
+      - 'PlayStation Plus: You can change Plus Tier (premium, deluxe etc...) and translate description in Theme Options'
+      - 'NowPlaying: Added notification in PS5 style with Sound effect when Game is Closing using NowPlaying extension'
+      - 'Removed: Removed all Anniversary theme colors, causes many issues with custom string changes'
+      - 'Tweak: Delayed main list animation to get played while game list is moving'
+      - 'Fix: Fixed Selection Sound when theme is launching and when game is running and Game Status screen shows'
