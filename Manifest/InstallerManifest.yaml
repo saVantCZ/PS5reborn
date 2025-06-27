@@ -366,3 +366,11 @@ Packages:
       - 'Removed: Removed all Anniversary theme colors, causes many issues with custom string changes'
       - 'Tweak: Delayed main list animation to get played while game list is moving'
       - 'Fix: Fixed Selection Sound when theme is launching and when game is running and Game Status screen shows'
+  - Version: 3.2.1
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-06-27
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.2.1/PS5reborn_saVantCZ_3_2_1.pthm
+    Changelog:
+      - 'HOTFIX'
+      - 'Fixed: Game List shifted when "Hide Mouse Cursor" is enabled'
+      - 'Theme Options: Added toggle to enable 30th Anniversary Intro'
