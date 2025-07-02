@@ -374,3 +374,14 @@ Packages:
       - 'HOTFIX'
       - 'Fixed: Game List shifted when "Hide Mouse Cursor" is enabled'
       - 'Theme Options: Added toggle to enable 30th Anniversary Intro'
+  - Version: 3.2.2
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-02
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.2.2/PS5reborn_saVantCZ_3_2_2.pthm
+    Changelog:
+      - 'Fix: Partially fixed wrong More Games button position on lower Item/Game Count then 20'
+      - 'Fix: Partially fixed phantom selected game if going back from More Games with B button on lower Item/Game Count then 20'
+      - 'Theme Options: Added toggle to disable Fancy Start-up Cover Images animation'
+      - 'Removed: Unused idle video file'
+      - 'Experimental: Added support for MoData extension by Jono (currently available only on Discord) to show Real Disk Usage data (Free Disk Space) on Welcome Hub'
+      - 'Localization: Small fix for vi_VN LOC file'
