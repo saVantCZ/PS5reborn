@@ -385,3 +385,16 @@ Packages:
       - 'Removed: Unused idle video file'
       - 'Experimental: Added support for MoData extension by Jono (currently available only on Discord) to show Real Disk Usage data (Free Disk Space) on Welcome Hub'
       - 'Localization: Small fix for vi_VN LOC file'
+  - Version: 3.2.5
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.2.5/PS5reborn_saVantCZ_3_2_5.pthm
+    Changelog:
+      - 'NEW: Reworked Welcome Hub widgets!'
+      - 'NEW: Added support for upcoming "SuccessStory Fullscreen Helper" (huge thanks to Mike Aniki for testing) '
+      - 'Welcome Hub: Added new Trophy Widget with Total Achievements Count, Separated Total Achievement Count based on Rarity and Level Ranking !!!(You will need "SuccessStory Fullscreen Helper" extension to make it work, and correct data from SuccessStory)!!!'
+      - 'Welcome Hub: Added new "You Should Play" widget, which shows game you havent played yet! (If no game found, it fallback to Default Custom Image)'
+      - 'Welcome Hub: Added new Storage widget, you need MoData extenstion, will show all drives and free space, will show your main gaming disk free space with progress bar'
+      - 'Welcome Hub: Added new Connection widget, you need MoData extension, will show currently connected Wifi Network, signal strenght, or if Wired to Ethernet'
+      - 'ThemeOptions: You can now Switch Widgets in their Columns, from Up-Down to Down-Up'
+      - 'Fixed: Focus Visual Style on Buttons in Game Status screen'
