@@ -398,3 +398,11 @@ Packages:
       - 'Welcome Hub: Added new Connection widget, you need MoData extension, will show currently connected Wifi Network, signal strenght, or if Wired to Ethernet'
       - 'ThemeOptions: You can now Switch Widgets in their Columns, from Up-Down to Down-Up'
       - 'Fixed: Focus Visual Style on Buttons in Game Status screen'
+  - Version: 3.2.6
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.2.6/PS5reborn_saVantCZ_3_2_6.pthm
+    Changelog:
+      - 'Localizations partially Updated'
+      - 'Fix: Trophy Platinum badge for level 60+ had wrong transparency'
+      - 'Plugin Status: Widgets will show missing Extension message'
