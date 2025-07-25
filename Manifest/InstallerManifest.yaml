@@ -406,3 +406,13 @@ Packages:
       - 'Localizations partially Updated'
       - 'Fix: Trophy Platinum badge for level 60+ had wrong transparency'
       - 'Plugin Status: Widgets will show missing Extension message'
+  - Version: 3.3.1
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.3.1/PS5reborn_saVantCZ_3_3_1.pthm
+    Changelog:
+      - 'NEW: Updated GameStatus screen layout'
+      - 'GameStatus: Improved layout with smaller buttons, now you can put PC to sleep, restart or turn off or close Playnite directly from this screen'
+      - 'GameStatus: Improved Focusing, but not guaranteed to work 100%, Improved Readability of buttons and its tooltip'
+      - 'PS Plus View: Now shows not played games if any (only game Logo, so make sure ExtraMetadata Logos are set)'
+      - 'Localization: Improved LOC files'
