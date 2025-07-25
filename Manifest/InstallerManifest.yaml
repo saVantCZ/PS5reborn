@@ -416,3 +416,10 @@ Packages:
       - 'GameStatus: Improved Focusing, but not guaranteed to work 100%, Improved Readability of buttons and its tooltip'
       - 'PS Plus View: Now shows not played games if any (only game Logo, so make sure ExtraMetadata Logos are set)'
       - 'Localization: Improved LOC files'
+  - Version: 3.3.2
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-20
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.3.2/PS5reborn_saVantCZ_3_3_2.pthm
+    Changelog:
+      - 'HOTFIX'
+      - 'GameStatus: To ensure 100% working focusing back to Playnite Game Status Screen, you are now forced to have "Minimize after Launching Game" disabled!'
