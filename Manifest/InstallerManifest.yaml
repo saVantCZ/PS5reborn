@@ -423,3 +423,12 @@ Packages:
     Changelog:
       - 'HOTFIX'
       - 'GameStatus: To ensure 100% working focusing back to Playnite Game Status Screen, you are now forced to have "Minimize after Launching Game" disabled!'
+  - Version: 3.3.3
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-29
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.3.3/PS5reborn_saVantCZ_3_3_3.pthm
+    Changelog:
+      - 'Removed usage of Trailer or MicroTrailer as Game Background'
+      - 'Game Video Background can now be set with BackgroundChanger extension instead'
+      - 'Improved look for not played games in PS Plus view'
+      - 'Rearange buttons on Game Status screen'
