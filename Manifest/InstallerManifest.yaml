@@ -432,3 +432,13 @@ Packages:
       - 'Game Video Background can now be set with BackgroundChanger extension instead'
       - 'Improved look for not played games in PS Plus view'
       - 'Rearange buttons on Game Status screen'
+  - Version: 3.4.0
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-08-02
+    PackageUrl: https://github.com/saVantCZ/PS5reborn/releases/download/3.4.0/PS5reborn_saVantCZ_3_4_0.pthm
+    Changelog:
+      - 'Huge Achievements Update'
+      - 'Require latest "SuccessStory Fullscreen Helper" v0.1.2'
+      - 'You can now open Trophy Widget from Welcome Hub to open Game List with Achievements'
+      - 'From this Window you can open Game Achievements Details, same as directly from Game Details page'
+      - 'Fixed very small layout bugs...'
